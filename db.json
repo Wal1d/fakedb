@@ -1,13 +1,59 @@
 {
-    "sav" : ["qwesadeef"],
-    "backoffice" : ["asdafvddthhy"],
-    "referentiel" : ["sdfsdfsfdr"],
-    "promotions" : ["reetgtyhyhdcv"],
-    "businessintelligence": ["pofoirjknfdj"],
-    "caisse" : ["ieieisdckod"],
-    "paiement": ["oekwfmnmdncjnd"],
-    "logistique": ["ajsndjncunucr"],
-    "ecommerce": ["aasdmkeValorantAd"],
-    "fidelite": ["rademffnnnv"],
-    "achat": ["lolsdjfbjhdfjr"]
+    "teams": [
+        {
+            "sav": [
+                "qwesadeef"
+            ]
+        },
+        {
+            "backoffice": [
+                "asdafvddthhy"
+            ]
+        },
+        {
+            "referentiel": [
+                "sdfsdfsfdr"
+            ]
+        },
+        {
+            "promotions": [
+                "reetgtyhyhdcv"
+            ]
+        },
+        {
+            "businessintelligence": [
+                "pofoirjknfdj"
+            ]
+        },
+        {
+            "caisse": [
+                "ieieisdckod"
+            ]
+        },
+        {
+            "paiement": [
+                "oekwfmnmdncjnd"
+            ]
+        },
+        {
+            "logistique": [
+                "ajsndjncunucr"
+            ]
+        },
+        {
+            "ecommerce": [
+                "aasdmkeValorantAd"
+            ]
+        },
+        {
+            "fidelite": [
+                "rademffnnnv"
+            ]
+        },
+        {
+            "achat": [
+                "lolsdjfbjhdfjr"
+            ]
+        }
+    ]
 }
